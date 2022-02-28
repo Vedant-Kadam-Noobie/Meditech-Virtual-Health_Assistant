@@ -1,1 +1,1 @@
-We have made a Virtual Health Assistant website to connect doctors all over with their patients through video consultations, online prescriptions, booking of lab tests, E-pharmacy and booking of appoinments along with full fledged payment portal.
+We have made a Virtual Health Assistant website to connect doctors all over with their patients through video consultations, online prescriptions, booking of lab tests, E-pharmacy and booking of appointments along with full fledged payment portal.
